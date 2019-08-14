@@ -1,7 +1,7 @@
 # myapp
-A demo integrate electron+reacr+typescript+webpack.
+A demo integrate electron+react+redux+typescript+webpack.
 
 How to use:
 
-npm install
+npm install && 
 npm start
