@@ -11,7 +11,7 @@ let createWindow = function() {
       // fullscreenable:false,
       // maximizable:false
     })
-    mainWindow.webContents.openDevTools()
+    // mainWindow.webContents.openDevTools()
     mainWindow.loadFile('index.html')
     mainWindow.on('closed', function() {
         mainWindow = null
